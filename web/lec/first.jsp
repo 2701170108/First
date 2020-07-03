@@ -12,7 +12,7 @@
 </head>
 <body>
 
-    <p>欢迎!</p>
+    <p>欢迎...!</p>
 <form action="first.jsp">
 
     账号<input type="username"><br>
