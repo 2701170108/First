@@ -11,9 +11,13 @@
     <title>Title</title>
 </head>
 <body>
+
+    <p>欢迎!</p>
 <form action="first.jsp">
 
-
+    账号<input type="username"><br>
+    密码<input type="password"><br>
+    <button type="submit">提交</button>
 
 
 </form>
