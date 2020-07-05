@@ -12,13 +12,13 @@
 </head>
 <body>
 
-    <p>欢迎...!</p>
+    <p >欢迎....!</p>
 <form action="first.jsp">
 
-    账号<input type="username"><br>
-    密码<input type="password"><br>
-    <button type="submit">提交</button>
-
+    账号<input type="username" placeholder="   输入你的账号"><br>
+    密码<input type="password" placeholder="   输入你的密码"><br>
+    <button type="submit">提交</button><br><br>
+    还没有账号？<a href="#">点击注册</a>
 
 </form>
 
